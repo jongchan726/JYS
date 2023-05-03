@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "272951873836",
+    "project_id": "jys-app",
+    "storage_bucket": "jys-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:272951873836:android:d1be845a87d4ca3909dc89",
+        "android_client_info": {
+          "package_name": "com.jys"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "272951873836-ksdgcslrg4aambt5nrqb7udcharobdpl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jys",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "272951873836-0ivf6l9ifrmc5pt0jprh5n68m6au1f0v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVkIeo7XnHTRWGiHi5IESOuDsHOB6Bhvk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "272951873836-0ivf6l9ifrmc5pt0jprh5n68m6au1f0v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1",
+  
+  "databaseURL": "https://jys-app-default-rtdb.firebaseio.com"
+}
